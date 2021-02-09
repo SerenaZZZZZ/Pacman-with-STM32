@@ -1,4 +1,4 @@
-# Pacman-with-STM32
+# Pacman-with-STM32F0DISCOVERY
 
 The game runs under release mode.
 PA9 as TX, PA10 as RX
